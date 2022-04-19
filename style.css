@@ -1,5 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
-/* @import url('https://fonts.googleapis.com/css2?family=Jura&display=swap'); */
 
 html {
   box-sizing: border-box;
@@ -12,7 +11,6 @@ body {
   justify-content: center;
   align-items: center;
   background: linear-gradient(to right, #fc466b, #3f5efb);
-  /* background: linear-gradient(to right, #59c173, #a17fe0, #5d26c1); */
 }
 
 .calculator {
@@ -70,7 +68,6 @@ button {
   min-height: 50px;
   font-size: 20px;
   font-weight: 100;
-  /* font-family: 'Open Sans', sans-serif; */
   border: none;
   border-radius: 5px;
   cursor: pointer;
